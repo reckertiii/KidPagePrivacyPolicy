@@ -1,8 +1,8 @@
-# Privacy Policy — KidPager
+# Privacy Policy — KidPage
 
 **Effective Date:** October 23, 2026
 
-**KidPager** ("the App") is a local-network church nursery parent paging controller for ProPresenter 7. We respect your privacy and have designed the App so that **zero personal data leaves your church's local network**.
+**KidPage** ("the App") is a local-network church nursery parent paging controller for ProPresenter 7. We respect your privacy and have designed the App so that **zero personal data leaves your church's local network**.
 
 ---
 
