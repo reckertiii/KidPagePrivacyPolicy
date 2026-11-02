@@ -27,6 +27,4 @@ The App is a tool operated by church nursery volunteers and production staff usi
 
 ## 5. Contact
 
-If you have questions about this Privacy Policy, please contact support via our official GitHub repositories:
-- Mobile App Repository: `https://github.com/reckertiii/parentcodemobile`
-- Web / Server Repository: `https://github.com/reckertiii/ParentAlert`
+If you have questions about this Privacy Policy, please contact support via our apps store contacts
