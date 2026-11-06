@@ -1,30 +1,53 @@
 # Privacy Policy — KidPage
 
-**Effective Date:** October 23, 2026
+**Effective Date:** November 6, 2026 (first published October 23, 2026)
 
-**KidPage** ("the App") is a local-network church nursery parent paging controller for ProPresenter 7. We respect your privacy and have designed the App so that **zero personal data leaves your church's local network**.
+**KidPage** ("the App") lets church nursery and kids ministry volunteers show a parent's check-in security code on the
+sanctuary screens through ProPresenter. We designed the App so that **your church's codes and settings stay on your
+devices and your church's local network**.
 
 ---
 
 ## 1. Data Collection & Usage
 
-**We do not collect, transmit, store, or sell any personal data.**
-- **No Cloud Accounts or Tracking**: The App does not require user registration, email addresses, names, or analytics tracking.
-- **Strictly Local Network Operation**: All parent security codes (e.g., `A4B`, `7KM`), queue timers, and ProPresenter connection settings (`IP address` and `Port`) are stored locally on your device and transmitted strictly over your local Wi-Fi network directly to your ProPresenter 7 computer.
+**We do not collect, sell, or share personal data, and the App has no advertising or analytics.**
+
+- **No accounts**: The App does not ask for registration, names, email addresses, or phone numbers.
+- **Local network only**: Parent security codes (e.g. `A4B`, `7KM`), display timers, and ProPresenter connection
+  settings (IP address and port) are stored on your device and sent only over your local network to your ProPresenter
+  computer.
+- **Linked devices**: When you link several phones or iPads, they share the code queue, recent pages, each device's
+  name (e.g. "Nursery iPad"), and the church's plan level and end date. This is stored in a hidden message on your
+  ProPresenter computer and never leaves your local network.
 
 ## 2. Device Permissions
 
-- **Local Network Access (iOS / Android Wi-Fi)**: Used exclusively to communicate with your ProPresenter 7 presentation computer on your local church network (`http://<local-ip>:<port>/v1/...`) and to synchronize active parent alert queues across nursery devices on the same network.
-- **Camera Access (`NSCameraUsageDescription`)**: Used exclusively to scan setup QR codes displayed on another ParentAlert device for instant local network configuration. Camera video is processed on-device in real time and is never recorded or transmitted.
+- **Local Network Access**: Used to find ProPresenter on your church Wi-Fi (including through Bonjour, the standard
+  way computers announce themselves on a local network), to send codes to it, and to keep linked devices in sync.
+- **Camera**: Used only to scan a setup QR code shown on another KidPage device. Video is processed on the device in
+  real time and is never recorded or sent anywhere.
 
-## 3. Third-Party Services
+## 3. Subscriptions and Third-Party Services
 
-The App does not integrate any third-party advertising SDKs, cloud analytics trackers, or external data brokers.
+- **Payments**: Subscriptions and free trials are purchased and managed through Apple (App Store) or Google
+  (Google Play). We never see your name, email address, or payment details. You can cancel in your App Store or
+  Google Play account settings.
+- **RevenueCat**: The App uses RevenueCat to check whether a subscription is active. RevenueCat receives an anonymous
+  app user ID and your store purchase records (such as which plan was bought and when it renews or ends). It does not
+  receive your name, email address, or payment details. See
+  [RevenueCat's privacy policy](https://www.revenuecat.com/privacy).
+- The App does not include advertising, analytics trackers, or data brokers.
 
 ## 4. Children's Privacy
 
-The App is a tool operated by church nursery volunteers and production staff using anonymous, temporary check-in security tags (e.g., `A4B`). It never collects children's names, photos, or personally identifiable information.
+The App is operated by church nursery volunteers and staff using anonymous, temporary check-in security codes (e.g.
+`A4B`). It never collects children's names, photos, or other personally identifiable information.
 
-## 5. Contact
+## 5. Changes to This Policy
 
-If you have questions about this Privacy Policy, please contact support via our apps store contacts
+If this policy changes, the updated version will be posted here with a new effective date.
+
+## 6. Contact
+
+If you have questions about this Privacy Policy, contact us through the support link on KidPage's App Store or
+Google Play page.
